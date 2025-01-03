@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hi!!! I'm a Dev 👩🏻‍💻
 
+- 🤍 Started exploring tech to design and build cute girly projects.  
+- 🚀 Solving DSA questions daily to build a clear understanding of the concepts.  
+
+
+## GitHub Stats⚡
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedevbarbie&show_icons=true&theme=radical)
 <!--
 **thedevbarbie/thedevbarbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
