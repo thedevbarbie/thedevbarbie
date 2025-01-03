@@ -1,7 +1,7 @@
 ## Hi!!! I'm a Dev 👩🏻‍💻
 
-- 🤍 Started exploring tech to design and build cute girly projects.  
-- 🚀 Solving DSA questions daily to build a clear understanding of the concepts.  
+🤍 Started exploring tech to design and build cute girly projects.  
+🚀 Solving DSA questions daily to build a clear understanding of the concepts.  
 
 
 ## GitHub Stats⚡
