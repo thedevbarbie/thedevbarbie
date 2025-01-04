@@ -1,10 +1,10 @@
 ## Hello, honeypies :) 👩🏻‍💻
 
 🤍 I began exploring and adoring tech for its cutsy tech UIs, I aspire to build one. 
-🚀 Hate it, but I have to keep solving these DSA questions to think analytically!!!  
+Hate it, but I have to keep solving these DSA questions to think analytically!!!  
 
 
-## GitHub Stats⚡
+## GitHub Stats 🚀 
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedevbarbie&show_icons=true&theme=radical)
 <!--
