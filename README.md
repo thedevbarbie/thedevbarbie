@@ -4,8 +4,6 @@
 Hate it, but I have to keep solving these DSA questions to think analytically!!!  
 
 
-## GitHub Stats 🚀 
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=thedevbarbie&show_icons=true&theme=radical)
 <!--
 **thedevbarbie/thedevbarbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
