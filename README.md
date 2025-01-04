@@ -1,7 +1,7 @@
-## Hi!!! I'm a Dev 👩🏻‍💻
+## Hello, honeypies :) 👩🏻‍💻
 
-🤍 Started exploring tech to design and build cute girly projects.  
-🚀 Solving DSA questions daily to build a clear understanding of the concepts.  
+🤍 I began exploring and adoring tech for its cutsy tech UIs, I aspire to build one. 
+🚀 Hate it, but I have to keep solving these DSA questions to think analytically!!!  
 
 
 ## GitHub Stats⚡
