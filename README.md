@@ -1,4 +1,4 @@
-## Hello, honeypies :) 👩🏻‍💻
+## Hello, Honeypies :) 👩🏻‍💻
 
 🤍 I began exploring and adoring tech for its cutsy tech UIs, I aspire to build one. 
 Hate it, but I have to keep solving these DSA questions to think analytically!!!  
